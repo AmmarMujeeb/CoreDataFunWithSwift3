@@ -1,0 +1,10 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "2e062c719847d870b749cc1f851ef63d"
+build_time: [540370073, 413111000]
+inputs:
+  "/Users/ammarmujeeb/Documents/My Demos/CoreDataFun/CoreDataFun/ViewController.swift": [540370073, 0]
+  "/Users/ammarmujeeb/Documents/My Demos/CoreDataFun/CoreDataFun/AppDelegate.swift": [540023241, 0]
+  "/Users/ammarmujeeb/Documents/My Demos/CoreDataFun/CoreDataFun/InputViewController.swift": [540038553, 0]
+  "/Users/ammarmujeeb/Documents/My Demos/CoreDataFun/Build/Intermediates/CoreDataFun.build/Debug-iphonesimulator/CoreDataFun.build/DerivedSources/CoreDataGenerated/CoreDataFun/Users+CoreDataClass.swift": [540022428, 0]
+  "/Users/ammarmujeeb/Documents/My Demos/CoreDataFun/Build/Intermediates/CoreDataFun.build/Debug-iphonesimulator/CoreDataFun.build/DerivedSources/CoreDataGenerated/CoreDataFun/Users+CoreDataProperties.swift": [540022428, 0]
+  "/Users/ammarmujeeb/Documents/My Demos/CoreDataFun/Build/Intermediates/CoreDataFun.build/Debug-iphonesimulator/CoreDataFun.build/DerivedSources/CoreDataGenerated/CoreDataFun/CoreDataFun+CoreDataModel.swift": [540022428, 0]
